@@ -28,7 +28,7 @@ I'm Michele, a software developer who loves to dive into coding and bring ideas 
 
 ### 🚀 Let's Connect!
 
--📫  [LinkedIn](www.linkedin.com/in/michele-harvey-284a91187) 
+-📫  [LinkedIn] (www.linkedin.com/in/michele-harvey-284a91187)
 
 ### 🌱 Currently Learning
 
